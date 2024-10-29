@@ -12,3 +12,10 @@
 มีไว้ตั้งค่าระบบ สามารถแก้ไขผ่าน IDE ได้
 
 Contract DISCORD ID : @kotorisaki (for any information)
+
+Group members
+- Kitatrist Riabroi <Saki> => Coding(Main) | Concept Creation(Main) | Flowchart
+- Jittima Ladmool <AG> => Researching | Coding | Flowchart | Slideshow
+- Boonsiri Kamonchatsakul <THA-YAH> => Flowchart(Main) | Slideshow
+- Kongphop Kanpai <MickMick> => Slideshow | Flowchart
+- Pratchaya Saekram <JUNIOR> => Slideshow(Main)
